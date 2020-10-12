@@ -1,1 +1,1 @@
-Simple app where you can search Unsplash photos in layout. App created in React using Unsplash API key.
+Simple app for search Unsplash photos. App created in React using Unsplash API.
