@@ -1,1 +1,1 @@
-Simple app for search Unsplash photos. App created in React using Unsplash API.
+Single page web app where you can see pics in a grid layout using Unsplash API key.
